@@ -1,7 +1,7 @@
 {
   "name": "trello-labels-enhanced",
   "version": "0.0.1",
-  "description": "For those who want better labels,
+  "description": "For those who want better labels",
   "main": "Gruntfile.coffee",
   "scripts": {
     "test": "grunt"
